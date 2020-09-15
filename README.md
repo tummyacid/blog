@@ -4,7 +4,7 @@ no frills blog framework using markdown to generate html
 # requirements
 * apache2 with apache-mod-markdown configured to display index.md files by default
 ```/etc/apache2/mods-enabled/markdown.conf
-<Location>               
+<Location \> 
     AddHandler markdown .md                        
     DirectoryIndex index.md                     
     MarkdownCss ./style.css                 
