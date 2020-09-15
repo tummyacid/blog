@@ -47,7 +47,7 @@ Took off for Incline Village, NV because not much other choice and eventually ma
 
 ## Sunday
 
-Prepped Jess's KTM 690 enduro for some riding and chatted with some other van/bike people. They hated their recent AirBNB tenants. 
+Prepped Jess's KTM 690 enduro for some riding and chatted with some other van/bike people. They seemed to dislike their recent AirBNB tenants. 
 
 ![KTM 690 Enduro is small next to the Strom but very capable](/images/FotD2020 - 111.png)
 

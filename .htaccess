@@ -1,1 +1,4 @@
 DirectoryIndex index.md
+# Hide files not concerning the user
+RedirectMatch 404 /.git
+RedirectMatch 404 /.(bash|git|hg|log|svn|swp|tar)
